@@ -18,8 +18,9 @@ function LandingPage() {
             <About />
             <WhyUs />
             <OurProject />
+             <Testimonials />
             <Contact />
-            <Testimonials />
+           
             <Map />
             <Footer />
 
